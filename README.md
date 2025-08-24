@@ -10,7 +10,7 @@ It uses multiple models, evaluates them with **ROC-AUC**, and saves the best mod
 - Select the best model using **ROC-AUC** as the primary metric.
 
 ## 📂 Dataset
-- Source: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) (or your provided CSV).
+- Source: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)
 - Features include: age, sex, cholesterol, resting blood pressure, chest pain type, max heart rate, etc.
 - Target: `1` = heart disease present, `0` = no heart disease.
 
